@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Atelier Grimm
 ---
-
+Hello and welcome to my practice site for github pages.
